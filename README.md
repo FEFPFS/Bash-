@@ -1,2 +1,3 @@
-# Bash-
-Tools Bash 
+# Bash
+Tools Bash
+## Projects Notes 
